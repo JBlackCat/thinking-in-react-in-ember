@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'thinking-in-react',
+    modulePrefix: 'thinking-in-react-in-ember',
     environment,
     rootURL: '/',
     locationType: 'auto',

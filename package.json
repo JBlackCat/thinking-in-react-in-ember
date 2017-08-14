@@ -1,14 +1,14 @@
 {
-  "name": "thinking-in-react",
-  "version": "0.0.0",
-  "description": "Small description for thinking-in-react goes here",
+  "name": "thinking-in-react-in-ember",
+  "version": "1.0.0",
+  "description": "https://facebook.github.io/react/docs/thinking-in-react.html",
   "license": "MIT",
   "author": "",
   "directories": {
     "doc": "doc",
     "test": "tests"
   },
-  "repository": "",
+  "repository": "git@github.com:JBlackCat/thinking-in-react-in-ember.git",
   "scripts": {
     "build": "ember build",
     "start": "ember server",

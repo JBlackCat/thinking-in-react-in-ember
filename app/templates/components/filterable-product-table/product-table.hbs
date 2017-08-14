@@ -1,0 +1,15 @@
+<table>
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Price</th>
+		</tr>
+		<tbody>
+			{{#each model as |product|}}
+				{{filterable-product-table/product-table/product-category-row}}
+				{{filterable-product-table/product-table/product-row product=product}}
+			{{/each}}
+		</tbody>
+	</thead>
+</table>
+{{yield}}

@@ -1,7 +1,8 @@
-# thinking-in-react
+# thinking-in-react-in-ember
 
 This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
+
+https://facebook.github.io/react/docs/thinking-in-react.html in Ember.
 
 ## Prerequisites
 
@@ -15,7 +16,7 @@ You will need the following things properly installed on your computer.
 ## Installation
 
 * `git clone <repository-url>` this repository
-* `cd thinking-in-react`
+* `cd thinking-in-react-in-ember`
 * `npm install`
 
 ## Running / Development
