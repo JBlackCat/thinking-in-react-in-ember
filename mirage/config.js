@@ -1,5 +1,4 @@
 export default function() {
-
 	let products = [{
 		type: 'products',
 		id: 'football',
